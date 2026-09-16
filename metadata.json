@@ -1,0 +1,7 @@
+{
+  "name": "AUTOMAN UNS - Monitoring Perawatan Armada",
+  "description": "Sistem Terintegrasi Monitoring Perawatan Berkala, Odometer, Matriks Komponen Vital, dan Bengkel Kendaraan Dinas Universitas Sebelas Maret.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
